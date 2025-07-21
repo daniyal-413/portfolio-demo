@@ -32,19 +32,23 @@ body {
     border-color: #0c4e0c !important;
     background-color: #115f11 !important;
 }
-.navbar-brand{
+
+.navbar-brand {
     font-size: 2rem;
     font-weight: bold;
     color: #0c4e0c;
 }
-.navbar-brand:hover{
+
+.navbar-brand:hover {
     color: #1b661b;
 }
-.nav-link{
+
+.nav-link {
     color: #0c4e0c;
 }
+
 .nav-link:hover {
-color: #1b661b;
+    color: #1b661b;
 }
 
 .image-section {
